@@ -1,6 +1,7 @@
 <?php
 
 $races = [
+  "26WSHALF",
   "H2026",
   "B2025",
   "25WSHALF",
